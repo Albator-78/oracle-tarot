@@ -1,0 +1,2 @@
+# oracle-tarot
+Lorigramme
